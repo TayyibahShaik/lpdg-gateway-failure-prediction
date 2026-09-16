@@ -1,0 +1,121 @@
+week_start,rank,gateway_id,score,reason
+2026-02-02,1,02E12310186C,594.06,2 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on rx_crc_bad
+2026-02-02,2,0259991BA036,529.19,2 flagged hour(s) >3 sigma; avg 247.5 unread meters/wk (42.7% fail rate); primary anomaly on rx_crc_bad
+2026-02-02,3,02423E0E6E9F,509.23,10 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on offline_duration_sec
+2026-02-02,4,069A98DEEB1D,453.57,2 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-02,5,06C0D5E3BCDB,418.77,1 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on offline_duration_sec
+2026-02-02,6,0E9A30D927A5,418.09,6 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on offline_duration_sec
+2026-02-02,7,0ADD02AB693D,397.75,3 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on offline_duration_sec
+2026-02-02,8,0AB6B45C775A,341.12,17 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-02,9,02314F9A9168,338.25,10 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on disconnection_cnt
+2026-02-02,10,0E5CD9B19DCB,321.33,5 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on rx_crc_bad
+2026-02-02,11,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-02-02,12,028B24EADDAD,306.53,2 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on rx_crc_bad
+2026-02-02,13,02D4DFEF402A,288.39,2 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-02,14,022C6F326E3B,282.94,2 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on reboot_cnt
+2026-02-02,15,0A9547C11A56,278.85,5 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-09,1,02E12310186C,599.11,6 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on rx_crc_bad
+2026-02-09,2,0259991BA036,519.03,0 flagged hour(s) >3 sigma; avg 247.5 unread meters/wk (42.7% fail rate); primary anomaly on baseline metric
+2026-02-09,3,02423E0E6E9F,498.86,3 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on offline_duration_sec
+2026-02-09,4,069A98DEEB1D,454.11,1 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-09,5,06C0D5E3BCDB,429.0,8 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on offline_duration_sec
+2026-02-09,6,0E9A30D927A5,406.79,2 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on offline_duration_sec
+2026-02-09,7,0ADD02AB693D,400.16,4 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on reboot_cnt
+2026-02-09,8,02314F9A9168,335.22,7 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on reboot_cnt
+2026-02-09,9,0AB6B45C775A,332.07,13 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-09,10,0E5CD9B19DCB,316.7,3 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on rx_crc_bad
+2026-02-09,11,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-02-09,12,028B24EADDAD,308.88,3 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on rx_crc_bad
+2026-02-09,13,02D4DFEF402A,287.29,0 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on baseline metric
+2026-02-09,14,022C6F326E3B,284.9,1 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on reboot_cnt
+2026-02-09,15,0A9547C11A56,274.54,2 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-16,1,02E12310186C,595.88,3 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on rx_crc_bad
+2026-02-16,2,02423E0E6E9F,490.95,0 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on baseline metric
+2026-02-16,3,069A98DEEB1D,455.92,2 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-16,4,06C0D5E3BCDB,428.8,7 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on reboot_cnt
+2026-02-16,5,0E9A30D927A5,406.42,3 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on rx_crc_bad
+2026-02-16,6,0ADD02AB693D,398.16,5 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on offline_duration_sec
+2026-02-16,7,02314F9A9168,323.99,3 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on reboot_cnt
+2026-02-16,8,0E5CD9B19DCB,320.73,7 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on disconnection_cnt
+2026-02-16,9,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-02-16,10,028B24EADDAD,309.11,2 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on rx_crc_bad
+2026-02-16,11,0AB6B45C775A,306.2,3 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-16,12,02D4DFEF402A,293.05,4 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-16,13,022C6F326E3B,281.02,1 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on reboot_cnt
+2026-02-16,14,0A9547C11A56,274.41,1 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-16,15,024570739DE0,247.17,0 flagged hour(s) >3 sigma; avg 100.0 unread meters/wk (94.3% fail rate); primary anomaly on baseline metric
+2026-02-23,1,02E12310186C,596.07,4 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on disconnection_cnt
+2026-02-23,2,02423E0E6E9F,493.66,3 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on rx_crc_bad
+2026-02-23,3,069A98DEEB1D,456.93,3 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-23,4,06C0D5E3BCDB,422.81,5 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on disconnection_cnt
+2026-02-23,5,0E9A30D927A5,408.91,3 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on rx_crc_bad
+2026-02-23,6,0ADD02AB693D,391.64,1 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on disconnection_cnt
+2026-02-23,7,028B24EADDAD,328.03,12 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on disconnection_cnt
+2026-02-23,8,02314F9A9168,325.89,5 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on rx_crc_bad
+2026-02-23,9,0E5CD9B19DCB,316.9,4 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on rx_crc_bad
+2026-02-23,10,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-02-23,11,0AB6B45C775A,308.57,2 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-23,12,02D4DFEF402A,301.89,5 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on offline_duration_sec
+2026-02-23,13,022C6F326E3B,280.96,0 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on baseline metric
+2026-02-23,14,0A9547C11A56,278.17,4 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on rx_crc_bad
+2026-02-23,15,024570739DE0,247.17,0 flagged hour(s) >3 sigma; avg 100.0 unread meters/wk (94.3% fail rate); primary anomaly on baseline metric
+2026-03-02,1,02E12310186C,612.21,16 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on offline_duration_sec
+2026-03-02,2,02423E0E6E9F,493.41,2 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-02,3,069A98DEEB1D,459.07,4 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-02,4,06C0D5E3BCDB,421.16,2 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-02,5,0E9A30D927A5,408.84,3 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on reboot_cnt
+2026-03-02,6,0ADD02AB693D,395.47,3 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on offline_duration_sec
+2026-03-02,7,028B24EADDAD,347.35,25 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on offline_duration_sec
+2026-03-02,8,02314F9A9168,323.0,3 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-02,9,0E5CD9B19DCB,315.44,3 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on rx_crc_bad
+2026-03-02,10,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-03-02,11,0AB6B45C775A,308.82,3 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-02,12,02D4DFEF402A,293.55,2 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on offline_duration_sec
+2026-03-02,13,0A9547C11A56,282.42,5 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on disconnection_cnt
+2026-03-02,14,022C6F326E3B,278.56,0 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on baseline metric
+2026-03-02,15,024570739DE0,247.17,0 flagged hour(s) >3 sigma; avg 100.0 unread meters/wk (94.3% fail rate); primary anomaly on baseline metric
+2026-03-09,1,02E12310186C,614.51,18 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on offline_duration_sec
+2026-03-09,2,02423E0E6E9F,497.23,2 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-09,3,069A98DEEB1D,457.19,2 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on disconnection_cnt
+2026-03-09,4,06C0D5E3BCDB,418.28,2 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on offline_duration_sec
+2026-03-09,5,0E9A30D927A5,407.98,2 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on rx_crc_bad
+2026-03-09,6,0ADD02AB693D,397.17,3 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-09,7,028B24EADDAD,341.19,20 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on disconnection_cnt
+2026-03-09,8,02314F9A9168,323.88,2 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-09,9,0E5CD9B19DCB,322.26,9 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on rx_crc_bad
+2026-03-09,10,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-03-09,11,0AB6B45C775A,307.36,1 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-09,12,02D4DFEF402A,290.11,2 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on offline_duration_sec
+2026-03-09,13,022C6F326E3B,279.79,0 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on baseline metric
+2026-03-09,14,0A9547C11A56,274.5,0 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on baseline metric
+2026-03-09,15,024570739DE0,247.17,0 flagged hour(s) >3 sigma; avg 100.0 unread meters/wk (94.3% fail rate); primary anomaly on baseline metric
+2026-03-16,1,02E12310186C,604.82,12 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on disconnection_cnt
+2026-03-16,2,02423E0E6E9F,493.87,1 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-16,3,069A98DEEB1D,462.35,4 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on offline_duration_sec
+2026-03-16,4,06C0D5E3BCDB,419.49,3 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-16,5,0E9A30D927A5,415.3,6 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on offline_duration_sec
+2026-03-16,6,0ADD02AB693D,397.91,2 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-16,7,028B24EADDAD,332.29,17 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on offline_duration_sec
+2026-03-16,8,02314F9A9168,322.78,1 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-16,9,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-03-16,10,0E5CD9B19DCB,313.3,2 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on rx_crc_bad
+2026-03-16,11,0AB6B45C775A,306.52,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on baseline metric
+2026-03-16,12,02D4DFEF402A,292.78,2 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on offline_duration_sec
+2026-03-16,13,0A9547C11A56,278.55,3 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on offline_duration_sec
+2026-03-16,14,022C6F326E3B,278.4,2 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-16,15,0E752F1B295C,251.87,15 flagged hour(s) >3 sigma; avg 100.5 unread meters/wk (31.1% fail rate); primary anomaly on reboot_cnt
+2026-03-23,1,02E12310186C,599.0,8 flagged hour(s) >3 sigma; avg 273.8 unread meters/wk (70.0% fail rate); primary anomaly on disconnection_cnt
+2026-03-23,2,02423E0E6E9F,497.63,1 flagged hour(s) >3 sigma; avg 223.5 unread meters/wk (75.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,3,069A98DEEB1D,465.89,6 flagged hour(s) >3 sigma; avg 203.8 unread meters/wk (77.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,4,06C0D5E3BCDB,420.46,1 flagged hour(s) >3 sigma; avg 186.5 unread meters/wk (74.3% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,5,0E9A30D927A5,413.32,5 flagged hour(s) >3 sigma; avg 182.2 unread meters/wk (60.5% fail rate); primary anomaly on offline_duration_sec
+2026-03-23,6,0ADD02AB693D,397.78,2 flagged hour(s) >3 sigma; avg 171.5 unread meters/wk (84.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,7,02314F9A9168,330.08,7 flagged hour(s) >3 sigma; avg 138.0 unread meters/wk (71.1% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,8,0AC437023B18,314.19,0 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (96.4% fail rate); primary anomaly on baseline metric
+2026-03-23,9,028B24EADDAD,311.47,6 flagged hour(s) >3 sigma; avg 132.2 unread meters/wk (62.7% fail rate); primary anomaly on reboot_cnt
+2026-03-23,10,0E5CD9B19DCB,310.63,0 flagged hour(s) >3 sigma; avg 139.5 unread meters/wk (49.6% fail rate); primary anomaly on baseline metric
+2026-03-23,11,0AB6B45C775A,310.63,3 flagged hour(s) >3 sigma; avg 133.0 unread meters/wk (66.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,12,02D4DFEF402A,289.53,1 flagged hour(s) >3 sigma; avg 118.5 unread meters/wk (89.8% fail rate); primary anomaly on rx_crc_bad
+2026-03-23,13,0A9547C11A56,286.86,8 flagged hour(s) >3 sigma; avg 119.0 unread meters/wk (48.8% fail rate); primary anomaly on offline_duration_sec
+2026-03-23,14,022C6F326E3B,278.25,0 flagged hour(s) >3 sigma; avg 118.2 unread meters/wk (75.8% fail rate); primary anomaly on baseline metric
+2026-03-23,15,024570739DE0,247.17,0 flagged hour(s) >3 sigma; avg 100.0 unread meters/wk (94.3% fail rate); primary anomaly on baseline metric
