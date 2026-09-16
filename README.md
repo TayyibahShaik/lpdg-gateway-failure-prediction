@@ -88,3 +88,24 @@ Unread meters (impact)
 Failure rate (%)
 
 👉 This ensures both technical anomalies + real-world impact are considered.
+
+| Baseline               | Improved                   |
+| ---------------------- | -------------------------- |
+| Detects anomalies only | Detects anomalies + impact |
+| May miss real failures | Captures customer impact   |
+| Less practical         | More business-aware        |
+
+**⚠️ Limitations**
+Does not predict future failures
+Assumes past patterns continue
+May miss sudden unexpected issues
+
+**🚀 Future Improvements**
+Add time-series forecasting
+Include more telemetry signals
+Optimize scoring using cost (€380 vs €600)
+Extend to machine learning model
+
+**🎥 Video Demo**
+
+(Add your video link here)
