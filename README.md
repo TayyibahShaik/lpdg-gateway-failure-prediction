@@ -106,6 +106,3 @@ Include more telemetry signals
 Optimize scoring using cost (€380 vs €600)
 Extend to machine learning model
 
-**🎥 Video Demo**
-
-(Add your video link here)
